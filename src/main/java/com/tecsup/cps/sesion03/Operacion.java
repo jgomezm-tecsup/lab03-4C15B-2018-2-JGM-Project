@@ -1,2 +1,2 @@
-public clas Operacion {
+public class Operacion {
 }
